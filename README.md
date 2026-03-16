@@ -286,6 +286,4 @@ To prevent abuse or mailbox flooding, the dropbox can enforce per-device limits 
 
 ## License
 
-This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
-
-You are free to use, study, modify, and redistribute this software. Any distributed modifications or derivative works **must also be released under the GPL**, ensuring this project and its improvements remain free and open.
+This project is licensed under the **[GNU General Public License v2.0]
